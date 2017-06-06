@@ -1,0 +1,53 @@
+= Shame on you, java
+@antonmry
+2017-06-06
+:revnumber: {project-version}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../java]
+:deckjs_transition: fade
+:navigation:
+:menu:
+:status:
+:adoctor: http://asciidoctor.org/[Asciidoctor]
+:gradle: http://gradle.org[Gradle]
+
+== Axenda
+
+* VigoJUG e VigoTech
+* Introducción Scala
+* Charlas cortas
+* O reto
+* Kahoot
+
+[%notitle]
+== VigoTech Alliance
+
+image::vigotech.jpg[background, size=cover]
+
+== VigoJUG
+
+* Un meetup o primeiro martes de cada mes
+* Un taller de iniciación o terceiro martes de cada mes
+* Involucrar as empresas locais e promover a tecnoloxía
+* ¿Te animas cunha charla?. Licencias de JetBrains ;-)
+* Outras iniciativas: clubes de lectura
+* Canal de slack #VigoJUG en http://www.vigotech.org
+
+image::sponsors.jpg[sponsors,800,200]
+
+== Introducción a Scala por Rubén Rua
+
+== Shame on you, Java!
+
+== O reto
+
+* Exercicio de programación breve (30 minutos) en GitHub
+* PRs (un directorio por cada usuaria)
+* Unha semana antes: se fecha e lanzamos enquisa
+* Charla lostrego no seguinte meetup
+
+== Kahoot
+
+image::kahoot.jpg[kahoot, 640, 480]
+
