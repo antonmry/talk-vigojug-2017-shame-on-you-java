@@ -75,7 +75,7 @@ liveReload {
 }
 
 githubPages {
-    repoUri = 'git@github.com:vigojug/taller-iniciacion-1.git'
+    repoUri = 'git@github.com:antonmry/talk-vigojug-2017-shame-on-you-java.git'
 }
 
 download {
